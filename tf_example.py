@@ -199,3 +199,4 @@ print(list(tempds.take(1)))
 
 print(list(tempds.take(1)))
 
+#next steps: use the dataset from killer game
