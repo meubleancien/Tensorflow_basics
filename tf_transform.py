@@ -344,3 +344,6 @@ gcloud ai-platform local predict \
     --model-dir=./taxi_trained/export/exporter/${model_dir} \
     --json-instances=/tmp/test.json
     '''
+
+
+#vertex ai à relier avec les bon creds
